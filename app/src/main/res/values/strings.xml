@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pactica1</string>
+    <string name="str_ayuda">help</string>
+    <string name="str_config">Settings</string>
+    <string name="str_palabras">Words</string>
+    <string name="str_logros">Achievements</string>
+</resources>
